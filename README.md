@@ -262,6 +262,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+ * [gtk4.cr](https://github.com/hugopl/gtk4.cr) - GTK4 bindings for Crystal
  * [Iu](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
